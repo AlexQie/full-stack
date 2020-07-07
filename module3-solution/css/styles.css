@@ -1,9 +1,14 @@
 /* Header */
+#navbar-container {
+    margin-left: 0px;
+}
+
 #header-nav {
     background-color: gray;
     border-radius: 0;
     border: 3px;
     border-color: black;
+    margin-bottom: 0px;
 }
 .navbar-brand {
     padding-top: 4px;
